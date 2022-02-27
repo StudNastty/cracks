@@ -79,7 +79,7 @@ f.MouseButton1Down:connect(
         end
         b:Destroy()
         wait(1)
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/juNstring/cracks/main/Cihonaxskid.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/juNstring/cracks/main/Cihonax/Cihonaxskid.lua"))()
         for l, m in pairs(game.CoreGui:GetDescendants()) do
             if m.Name == "Intro" then
                 m:Destroy()
