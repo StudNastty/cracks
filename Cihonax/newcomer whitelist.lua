@@ -1,6 +1,6 @@
 --[[ you might get aids looking to this fuckshit called "whitelist" bros prolly watched a youtube video and learned how to make it in the worst way. 
 
--- this skid still using Gui Converter (Revamped) LOOOL
+-- this 12yr obese skid still using Gui Converter (Revamped) in 2022 and calls himself a "scripter/developer" LMAOOO
 ps: GayChopex still a faggot
 
 -- Gui to Lua "Gui to Lua" 
