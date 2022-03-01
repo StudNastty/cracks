@@ -108,7 +108,7 @@ f.MouseButton1Down:connect(
             end
         end
         loadstring(
-            game:HttpGet("https://raw.githubusercontent.com/cfeciefe/qH4lF2gC3yM2vG6j/main/gamepassandlightning")
+            game:HttpGet("https://raw.githubusercontent.com/juNstring/cracks/main/Cihonax/gamepassandlightning.lua")
         )()
     end
 )
@@ -133,7 +133,7 @@ g.MouseButton1Down:connect(
         end
         b:Destroy()
         loadstring(
-            game:HttpGet("https://raw.githubusercontent.com/cfeciefe/qH4lF2gC3yM2vG6j/main/gamepassandlightning")
+            game:HttpGet("https://raw.githubusercontent.com/juNstring/cracks/main/Cihonax/gamepassandlightning.lua")
         )()
         for l, m in pairs(game.CoreGui:GetDescendants()) do
             if m.Name == "removeanticheatinvisibleshitandkillparts" then
