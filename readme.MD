@@ -2,7 +2,7 @@
 --Cihonax -- Skywars
 loadstring(game:HttpGet("https://raw.githubusercontent.com/juNstring/cracks/main/Cihonax/Loader.lua"))()
 
-TinyTask Hub -- Anime Fighters Simulator
+--TinyTask Hub -- Anime Fighters Simulator
 loadstring(game:HttpGet("https://raw.githubusercontent.com/juNstring/cracks/main/TinyTask%20Hub/loader.lua"))()
 ```
 
